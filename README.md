@@ -44,6 +44,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/styled-components-282C34?logo=styled-components&logoColor=#DB7093" alt="styled-components logo" title="styled-components" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Windows Terminal-282C34?logo=Windows Terminal&logoColor=#4D4D4D" alt="Windows Terminal logo" title="Windows Terminal" height="25" /></span>
+&nbsp;
+
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
 
