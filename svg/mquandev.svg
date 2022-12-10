@@ -79,9 +79,9 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi 👋, I'm Mạnh Quân
-            I'm  student, majoring in software engineering at Vietnam-Korea University of Information and Communication Technology;
-            Im Frontend Developer
+          <p> Hi 👋, I'm Mạnh Quân</p>
+          <p>  I'm  student, majoring in software engineering at Vietnam-Korea University of Information and Communication Technology;</p>
+          <p> Im Frontend Developer</p>
         </div>
         <div class="skills">
           <div class="skills_icon">
