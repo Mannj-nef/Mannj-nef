@@ -80,7 +80,9 @@
         <div class="earth"></div>
 				<div class="greeting">
           <p> Hi 👋, I'm Mạnh Quân</p>
-          <p>  I'm  student, majoring in software engineering at Vietnam-Korea University of Information and Communication Technology;</p>
+          <p>  I'm  student, majoring in </p>
+          <P>software engineering at Vietnam-Korea University</P>
+          <P>of Information and Communication Technology</P>
           <p> Im Frontend Developer</p>
         </div>
         <div class="skills">
