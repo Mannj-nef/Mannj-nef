@@ -13,7 +13,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<h4>Frond end</h4>
+<h4>Front end</h4>
 <div style="display: 'flex">
 <span><img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" /></span>
 &nbsp;
